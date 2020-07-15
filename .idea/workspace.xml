@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examination-Portal" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.Question_2">
@@ -87,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591168620854</updated>
       <workItem from="1591168623831" duration="131000" />
+      <workItem from="1591452878683" duration="776000" />
     </task>
     <servers />
   </component>
@@ -101,11 +102,16 @@
     <state x="488" y="382" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591357280708">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
+
     <state x="488" y="382" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.984@0.0.1280.984" timestamp="1591357280708" />
     <state x="461" y="136" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591168992481">
+
+    <state x="488" y="382" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.984@0.0.1280.984" timestamp="1591189364036" />
+    <state x="461" y="136" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591454151528">
+
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state x="461" y="136" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.702@0.27.1366.702" timestamp="1591168992481" />
+    <state x="461" y="136" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.702@0.27.1366.702" timestamp="1591454151528" />
     <state width="1320" height="191" key="GridCell.Tab.0.bottom" timestamp="1591213374028">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
